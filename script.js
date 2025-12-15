@@ -56,3 +56,4 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     document.querySelector(".navbarMenu")?.classList.remove("active");
   });
 });
+    
